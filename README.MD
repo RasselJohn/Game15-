@@ -1,4 +1,4 @@
-*Game 15 !*
+*TagGames*
 =================
 
 Application's exe-file is into 'dist' catalog.
